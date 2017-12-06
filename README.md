@@ -1,7 +1,7 @@
 # awesome-python3-webapp
 
-awesome-python3-webapp/  <-- 根目录
-|
+awesome-python3-webapp/  <-- 根目录  
+|  
 +- backup/               <-- 备份目录
 |
 +- conf/                 <-- 配置文件
